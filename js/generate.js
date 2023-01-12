@@ -1,5 +1,4 @@
 function addData(data) {
-	console.log(data);
 	let img = document.getElementById("img");
 	let hTwo = document.getElementsByTagName("h2");
 	let hThree = document.getElementsByTagName("h3");
